@@ -21,3 +21,12 @@ void StingFun::ShowName(std::string name){
 	std::cout<<" name is : "<<name<<"\n";
 }
 
+void add(){
+
+
+}
+
+void subtract(){
+
+
+}
