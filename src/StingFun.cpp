@@ -21,3 +21,13 @@ void StingFun::ShowName(std::string name){
 	std::cout<<" name is : "<<name<<"\n";
 }
 
+void subtract(){
+
+	std::cout<<" two sring will subract here "<<std::endl;
+
+}
+ void Additional(){
+
+	 std::cout<<" two sring will add here "<<std::endl;
+
+ }
